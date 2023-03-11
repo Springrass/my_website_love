@@ -51,9 +51,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 # 作者配置
 [author]
-  name = "xxxx"
-  email = ""
-  link = ""
+  name = "傲然的甜筒"
+  email = "i@zsj.cc"
+  link = "zsj.cc"
 
 # Menu config
 # 菜单配置
@@ -131,16 +131,16 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       logo = ""
       # title name
       # 标题名称
-      name = "Zhou Shijie"
+      name = "zsj.cc"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = '<i class="fas fa-ice-cream fa-fw" aria-hidden="true" style="color: #ffffff;"></i>'
+      #pre = '<i class="fas fa-ice-cream fa-fw" aria-hidden="true" style="color: #ffffff;"></i>'
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
-      post = ""
+      post = "🍦"
       # whether to use typeit animation for title name
       # 是否为标题显示打字机动画
-      typeit = false
+      typeit = true
 
   # Footer config
   # 页面底部信息配置
@@ -267,7 +267,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+      subtitle = ""
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -287,7 +287,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = ""
+    GitHub = "https://github.com/Springrass"
     Linkedin = ""
     Twitter = ""
     Instagram = ""
@@ -864,23 +864,23 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "/images/my.png"
           title = ""
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "A swimmer who majors in horticulture and loves computers"
           typeit = true
           social = true
           disclaimer = ""
       [languages.en.params.social]
-        GitHub = "xxxx"
-        Twitter = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
-        Youtubelegacy = "xxxx"
-        Phone = "555-555-555"
-        Email = "xxxx@xxxx.com"
+        #GitHub = ""
+        #Twitter = "xxxx"
+        #Instagram = "xxxx"
+        #Facebook = "xxxx"
+        #Telegram = "xxxx"
+        #Youtubelegacy = "xxxx"
+        Phone = "18500667142"
+        Email = "i@zsj.cc"
         RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
+        #[languages.en.params.social.Mastodon]
+        #  id = "@xxxx"
+        #  prefix = "https://mastodon.technology/"
 
   [languages.zh-cn]
     weight = 2
@@ -957,18 +957,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "/images/my.png"
           title = ""
-          subtitle = "一个简洁、优雅且高效的 Hugo 主题"
+          subtitle = "一名园艺专业并热爱计算机的游泳运动员"
           typeit = true
           social = true
           disclaimer = ""
       [languages.zh-cn.params.social]
-        GitHub = "xxxx"
-        Weibo = "xxxx"
-        Steam = "xxxx"
-        Zhihu = "xxxx"
-        Douban = "xxxx"
-        Devto = "xxxx"
+        #ZGitHub = "xxxx"
+        #Weibo = "xxxx"
+        #Steam = "xxxx"
+        #Zhihu = "xxxx"
+        #Douban = "xxxx"
+        #Devto = "xxxx"
         Bilibili = "xxxx"
-        Email = "xxxx@xxxx.com"
-        Phone = "555-555-555"
+        Email = "i@zsj.cc"
+        Phone = "18500667142"
         RSS = true
